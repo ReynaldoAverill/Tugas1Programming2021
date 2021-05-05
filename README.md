@@ -7,4 +7,4 @@ Terdapat 4 file pada program, yaitu:\
 3. peta.cpp : Digunakan untuk implementasi fungsi yang berhubungan langsung dengan peta
 4. interface.cpp : Digunakan untuk implementasi fungsi yang berhubungan dengan input dan output
 
-Susunan file/fungsi boleh diubah, selama masih menggunakan konsep yang diajarkan (boleh langsung pakai OOP juga kalo mau wkwk).
+Susunan file/fungsi boleh diubah, selama program dapat berjalan sesuai dengan spesifikasi.
